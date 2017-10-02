@@ -38,7 +38,7 @@ B.	Hague (Netherlands)
 C.	Geneva  
 D.	Paris  
 
-What utensil serves as the rallying cry of The Tick?
+What utensil serves as the rallying cry of The Tick?  
 A.	chopstick  
 B.	spoon  
 C.	fork  
