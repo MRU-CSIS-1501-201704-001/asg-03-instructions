@@ -78,4 +78,4 @@ Write code that does the following:
 * The user passes the quiz if they have at least 5 correct answers.
 * The user must be able to enter their answers as an uppercase or lowercase letter.
 * The answers must be stored in char variables and compared to another char in the if statements.
-* You cannot use any conditional operators in this assignment - to check answers correctly, you'll have to get some help from either Java's `String` or `Character` methods. Time to head to the API!
+* To check answers correctly, you can either use conditional operators or get some help from either Java's `String` or `Character` classes. Your choice. (I won't dock marks for using either method, but practicing going to the API is important.)
